@@ -10,7 +10,6 @@
             "email": "azat.nizam@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Azatnizam\\Pacaz\\": "src/"
