@@ -1,6 +1,6 @@
 <?php
 
-namespace Azatnizam;
+namespace Azatnizam\Pacaz;
 
 class AzatPackage {
     public static function Hello() {
