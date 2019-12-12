@@ -3,7 +3,7 @@
 namespace Azatnizam;
 
 class AzatPackage {
-    public function Hello() {
+    public static function Hello() {
         print('The AzatPackage works');
     }
 }
